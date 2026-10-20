@@ -11,7 +11,7 @@ Este repositório reúne os notebooks (`.ipynb`) desenvlvidos ao longo das aulas
 
 | Aula | Arquivo |  
 |---|---|  
-| Aula 06 | Imputação e Normalização de Dados | [aula06.ipynb](Unidade_01/Aula_06/aula06.ipynb) |  
+| Aula 06 | Imputação e Normalização de Dados | [aula06.ipynb](unidade_01/aula_06/aula_06.ipynb) |  
 
 ### Unidade 02
 
