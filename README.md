@@ -9,16 +9,16 @@ Este repositório reúne os notebooks (`.ipynb`) desenvlvidos ao longo das aulas
 
 ### Unidade 01
 
-| Aula | Arquivo |  
-|---|---|  
+| Aula | Arquivo | Link |  
+|---|---|---|    
 | Aula 06 | Imputação e Normalização de Dados | [aula06.ipynb](unidade_01/aula_06/aula_06.ipynb) |  
 
 ### Unidade 02
 
-| Aula | Arquivo |  
-|---|---|  
+| Aula | Arquivo | Link |  
+|---|---|---|  
 
 ### Unidade 03
 
-| Aula | Arquivo |  
-|---|---|  
+| Aula | Arquivo | Link |  
+|---|---|---|  
